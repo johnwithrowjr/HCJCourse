@@ -1,0 +1,26 @@
+
+section, .navbar {
+	border: solid;
+}
+.top-title {
+	float: left;
+	margin-left: 1vw;
+}
+h1 {
+	font-family: Verdana;
+	font-size: 28px;
+}
+nav button div {
+	float: right;
+}
+#chicken {
+	background-color: #888888;
+	margin: 30px 30px 30px 30px;
+}
+h4 {
+	position: relative;
+}
+.clear-div {
+	position: relative;
+	clear: both;
+}
