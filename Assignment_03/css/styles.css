@@ -1,5 +1,5 @@
 
-section, .navbar {
+section, header, li {
 	border: solid;
 }
 .top-title {
@@ -10,11 +10,15 @@ h1 {
 	font-family: Verdana;
 	font-size: 28px;
 }
+li {
+	font-family: Verdana;
+	font-size: 20px;
+}
 nav button div {
 	float: right;
 }
 #chicken {
-	background-color: #888888;
+	background-color: #AAAAAA;
 	margin: 30px 30px 30px 30px;
 }
 h4 {
